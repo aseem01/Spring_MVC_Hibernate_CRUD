@@ -4,10 +4,10 @@
     <h1> Features of Spring Framework</h1>
 Spring framework is feature rich framework and it comes with following features:
 
-<h2>1. Lightweight</h2>
+<h4>1. Lightweight</h4>
 
 <p>Spring is modular lightweight framework which allows you to selectively use any of its module on the top of Spring Core.</p>
-<h2> 2. Inversion Of Control (IOC)</h2>
+<h4> 2. Inversion Of Control (IOC)</h4>
 <p>This is another top feature of Spring framework where application dependencies are satisfied by the framework itself. Framework creates the object in runtime and satisfies application dependencies.</p>
 
 <h2>3. Aspect Oriented Programming (AOP)</h2>
