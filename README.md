@@ -1,37 +1,32 @@
 <html>
   <body>
     <h1>Spring MVC Framework</h1>
-    
-    2. Inversion Of Control (IOC)
+    <h1> Features of Spring Framework</h1>
+Spring framework is feature rich framework and it comes with following features:
 
-This is another top feature of Spring framework where application dependencies are satisfied by the framework itself. Framework creates the object in runtime and satisfies application dependencies.
+<h2>1. Lightweight</h2>
 
-3. Aspect Oriented Programming (AOP)
+<p>Spring is modular lightweight framework which allows you to selectively use any of its module on the top of Spring Core.</p>
+<h2> 2. Inversion Of Control (IOC)</h2>
+<p>This is another top feature of Spring framework where application dependencies are satisfied by the framework itself. Framework creates the object in runtime and satisfies application dependencies.</p>
 
-Aspect Oriented Programming (AOP) is very popular in programming world and in Spring it is well implemented. Developer can use Aspect Oriented Programming (AOP feature of Spring to develop application in which business logic is separated from system services.
+<h2>3. Aspect Oriented Programming (AOP)</h2>
+<p>Aspect Oriented Programming (AOP) is very popular in programming world and in Spring it is well implemented. Developer can use Aspect Oriented Programming (AOP feature of Spring to develop application in which business logic is separated from system services.</p>
 
-4. Container
+<h2>4. Container</h2>
+<p>Spring provides their own container for managing the bean lifecycle.</p>
+<h2>5. MVC Framework</h2>
+<p>Spring MVC Framework is used for developing MVC based web applications.</p>
+<p>6. Transaction Management</p>
+<p>Spring framework provides generic Transaction Management layer which can be used with or without J2EE(JEE) environment.</p>
+<p>7. JDBC Exception Handling</p>
+<p>Spring provides their own abstraction of JDBC exception which further simplify the exception handling in program.</p>
 
-Spring provides their own container for managing the bean lifecycle.
-
-5. MVC Framework
-
-Spring MVC Framework is used for developing MVC based web applications.
-
-6. Transaction Management
-
-Spring framework provides generic Transaction Management layer which can be used with or without J2EE(JEE) environment.
-
-7. JDBC Exception Handling
-
-Spring provides their own abstraction of JDBC exception which further simplify the exception handling in program.
-
-Benefits of Spring Framework
+<h1>Benefits of Spring Framework</h1>
 Here are advantages of Spring Framework:
 
-1. Solving difficulties of Enterprise application development
-
-Spring is solving the difficulties of development of complex applications, it provides Spring Core,  Spring IoC and Spring AOP for integrating various components of business applications.
+<h2>1. Solving difficulties of Enterprise application development</h2>
+<p>Spring is solving the difficulties of development of complex applications, it provides Spring Core,  Spring IoC and Spring AOP for integrating various components of business applications.</p>
 
 2. Support Enterprise application development through POJOs
 
